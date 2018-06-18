@@ -1,0 +1,24 @@
+{
+  "name": "@agilatech/lynxari-bme280-device",
+  "version": "0.9.0",
+  "description": "BME280 Pressure/Temperature/Humidity sensor device driver for use in the Agilatech Lynxari system",
+  "main": "bme280-scout.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agilatech/lynxari-bme280-device.git"
+  },
+  "keywords": [
+    "sensor",
+    "Bosch",
+    "BME280",
+    "Barometric",
+    "Pressure",
+    "Temperature",
+    "Humidity"
+  ],
+  "author": "Agilatech <scott@agilatech.com> (http://agilatech.com)",
+  "license": "MIT",
+  "dependencies": {
+    "@agilatech/bme280": "*"
+  }
+}
