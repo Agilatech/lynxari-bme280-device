@@ -1,6 +1,6 @@
 {
   "name": "@agilatech/lynxari-bme280-device",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "BME280 Pressure/Temperature/Humidity sensor device driver for use in the Agilatech Lynxari system",
   "main": "bme280-scout.js",
   "repository": {
